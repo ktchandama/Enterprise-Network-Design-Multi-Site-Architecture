@@ -4,7 +4,7 @@ This project features a multi-site network infrastructure designed and simulated
 
 ## 🗺️ IP Addressing Plan
 
-![Network Configuration](screenshot.PNG)
+![Network Configuration](screenshot.png)
 
 The network is segmented into three primary sites and a dedicated serial backbone. Each site is further divided into subnets to support individual rooms/departments.
 
